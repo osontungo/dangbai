@@ -1,12 +1,12 @@
 {
-  "name": "focus-sync-app",
+  "name": "x-to-focus-sync",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
-    "next": "^13.4.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "twitter-lite": "^1.1.0"
+    "node-cron": "^3.0.2",
+    "node-fetch": "^2.6.9"
   }
 }
