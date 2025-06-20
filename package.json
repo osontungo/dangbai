@@ -1,0 +1,12 @@
+{
+  "name": "focus-sync-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.4.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "twitter-lite": "^1.1.0"
+  }
+}
